@@ -24,7 +24,7 @@ LINE Messaging API (https://developers.line.biz/ja/services/messaging-api/) のA
 
 ## その他の成果
 
-- International Collegate Programming Contest 2019 World Finals 41st
+- International Collegiate Programming Contest 2019 World Finals 41st
   - https://icpc.global/worldfinals/results
-- International Collegate Programming Contest 2018 Asia Hanoi Regional Contest 2nd
+- International Collegiate Programming Contest 2018 Asia Hanoi Regional Contest 2nd
   - https://hanoi18.kattis.com/standings
